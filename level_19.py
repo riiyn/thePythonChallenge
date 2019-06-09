@@ -1,4 +1,4 @@
-import email, base64, wave
+import base64, wave
 import requests
 
 def get_string():
